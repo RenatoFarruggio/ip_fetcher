@@ -34,5 +34,5 @@ def fetch_websites():
             f.write(os.linesep)
             print(line)
 
-if __name__ = "__main__":
+if __name__ == "__main__":
     fetch_websites()
