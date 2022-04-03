@@ -1,0 +1,12 @@
+# Comments after "#"
+# empty lines are ignored
+# only one hostname per line!
+
+stackoverflow.com
+9gag.com
+duckduckgo.com
+youtube.com
+google.com
+deepl.com
+leo.org
+
